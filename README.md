@@ -1,1 +1,2 @@
-https://junghongseop.github.io/about_me/
+#개인프로젝 제출 1415정홍섭
+#주제: 자기 소개 웹페이지
