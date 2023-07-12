@@ -1,4 +1,4 @@
-🔗 [자기소개 페이지 보러가기](https://parkjooyoung0608.github.io/about_me/index.html)
+🔗 [자기소개 페이지 보러가기](https://junghongseop.github.io/about_me/)
 
 ![찰칵](https://github.com/junghongseop/about_me/assets/126876363/ada9b3f1-27a5-490e-a728-36e206ff547e)
 
